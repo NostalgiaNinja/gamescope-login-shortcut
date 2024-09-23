@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Gamescope
+Exec=gamescope -W 1920 -H 1080 -r 60 -e -- steam -bigpicture
+Comment=Run Steam on its own
+Type=Application
